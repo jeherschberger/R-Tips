@@ -10,5 +10,5 @@
 - git config --global user.email [Your email]
 
 ### Add access token
-- create access token using these instructions https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens
-- use these instruction to store you access token https://happygitwithr.com/https-pat
+- Create an access token using these instructions https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens
+- Use these instruction to store your access token https://happygitwithr.com/https-pat
