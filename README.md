@@ -11,4 +11,4 @@
 
 ### Add access token
 - Create an access token using these instructions https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens
-- Use these instruction to store your access token https://happygitwithr.com/https-pat
+- Use these instructions to store your access token in R https://happygitwithr.com/https-pat
