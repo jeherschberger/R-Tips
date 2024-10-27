@@ -1,6 +1,6 @@
 # R-Tips
 ## Managing github credentals in R-studio.
-### Prerequisits
+### Prerequisites
 - R installed
 - R-studio installed
 - Git installed
@@ -11,4 +11,4 @@
 
 ### Add access token
 - Create an access token using these instructions https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens
-- Use these instructions to store your access token in R https://happygitwithr.com/https-pat
+- Or use these instructions to create and store your access token in R https://happygitwithr.com/https-pat
